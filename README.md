@@ -24,12 +24,16 @@ O LabBot é um chatbot inovador que utiliza inteligência artificial para auxili
 
 ## Exemplo de Uso
 
+### Entrada:
 ```
 Exames: TSH, T4 livre
 Cidade: Rio de Janeiro
 ```
-
-O LabBot responderá com a especialidade médica recomendada (por exemplo, Endocrinologista) e um link para o Google Maps para encontrar especialistas na sua região.
+### Saída:
+```
+Médico recomendado: Endocrinologista
+Veja no Google Maps 🔍
+```
 
 ## Contribuições
 
