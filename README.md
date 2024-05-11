@@ -1,3 +1,5 @@
+<img src="labbot-logo.png" alt="LabBot Logo" width="200" height="200">
+
 # LabBot: Seu Assistente Inteligente na Busca por Especialistas Médicos
 
 O LabBot é um chatbot inovador que utiliza inteligência artificial para auxiliar você a encontrar o médico especialista ideal para seus exames alterados. Com uma interface amigável e intuitiva, o LabBot oferece uma experiência personalizada e eficiente, conectando você ao profissional de saúde mais adequado para suas necessidades.
