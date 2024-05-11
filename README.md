@@ -20,7 +20,7 @@ O LabBot é um chatbot inovador que utiliza inteligência artificial para auxili
    * Obtenha sua chave de API do Google Generative AI e configure-a no código.
 4. **Execução:**
    * Execute o código Python fornecido.
-   * Interaja com o LabBot através da interface do Jupyter Notebook ou Google Colab.
+   * Interaja com o LabBot através da interface do Google Colab.
 
 ## Exemplo de Uso
 
